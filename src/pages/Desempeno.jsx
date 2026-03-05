@@ -7,7 +7,7 @@ export function Desempeno() {
   return (
     <>
       <div className="des-layout">
-        <NavBar />
+        <NavBar/>
 
         <main className="des-content">
           <Card />
@@ -16,7 +16,7 @@ export function Desempeno() {
           <Card />
         </main>
 
-        <Footer />
+        <Footer/>
       </div>
     </>
   );
